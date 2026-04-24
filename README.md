@@ -1,4 +1,4 @@
-# Telegram Crypto Shop Bot
+# Telegram Crypto Shop Bot (Name: NumbersBot on Telegram)
 
 A Telegram bot for selling digital products with crypto payments via CryptoBot.
 
